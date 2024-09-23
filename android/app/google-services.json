@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101344698735",
+    "project_id": "garageeka-960e9",
+    "storage_bucket": "garageeka-960e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101344698735:android:1fa065fff7fcba3f30089a",
+        "android_client_info": {
+          "package_name": "com.brogrammers.garage_eka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFHzJWkkpJvV3aekkDHmxkCpBDcLGBpoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101344698735:android:0a1e28a5fe07ba3130089a",
+        "android_client_info": {
+          "package_name": "com.example.music_band"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFHzJWkkpJvV3aekkDHmxkCpBDcLGBpoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
